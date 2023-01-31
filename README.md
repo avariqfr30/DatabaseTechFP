@@ -1,4 +1,4 @@
-# Inventory Management System
+# BICMASS
 
 A simple PHP web system for managing an inventory.  
   
